@@ -1,6 +1,6 @@
 # Code Refactor Horiseon Landing Page
 
-![screenshot](Develop/screenshot.png | width=400)
+<img src="Develop/screenshot.png" width="400px;">
 
 ### What Was Refactored:
 - [x] Semantic HTML elements updated
